@@ -5,7 +5,7 @@
 // **************************************************************************
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
-import 'package:bingo_app/ui/dialogs/info_alert/info_alert_dialog.dart' as _i5;
+import 'package:bingo_app/ui/views/cards/cards_view.dart' as _i5;
 import 'package:bingo_app/ui/views/home/home_view.dart' as _i2;
 import 'package:bingo_app/ui/views/onboarding/onboarding_view.dart' as _i4;
 import 'package:bingo_app/ui/views/startup/startup_view.dart' as _i3;
